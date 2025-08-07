@@ -1,4 +1,4 @@
-# SDE
+# SQL
 First repository
 <br>
 Author - Yashraj
